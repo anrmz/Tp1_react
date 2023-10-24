@@ -1,0 +1,38 @@
+#input{
+border-radius: 1px;
+width: 183px;
+height: 21px;
+padding: 21px;
+margin-left: 6px;
+}
+body{
+  background-color: black;
+}
+#C{
+  background-color: rgb(255, 98, 0);
+  color: aliceblue;
+  height: 44px;
+  width: 47px;
+
+}
+.toto{
+  border-radius: 1px;
+  height: 44px;
+  width: 47px;
+}
+.container{
+  display: grid;
+  place-content: center;
+  padding-top: 170px;
+
+}
+img{
+  height: 400px;
+  width: 700px;
+}
+
+@media screen {
+
+  
+  
+}
