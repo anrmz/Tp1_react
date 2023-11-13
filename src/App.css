@@ -1,24 +1,28 @@
+*
+{
+  padding: 0;
+  margin: 0;
+  justify-content: center;
+}
 #input{
-border-radius: 1px;
-width: 183px;
-height: 21px;
-padding: 21px;
+width: 267px;
+height: 75px;
 margin-left: 6px;
 }
 body{
   background-color: black;
+  margin-top: -70px;
 }
 #C{
   background-color: rgb(255, 98, 0);
   color: aliceblue;
-  height: 44px;
-  width: 47px;
+  height: 75px;
+  width: 75px;
 
 }
 .toto{
-  border-radius: 1px;
-  height: 44px;
-  width: 47px;
+  height: 75px;
+  width: 75px;
 }
 .container{
   display: grid;
@@ -29,10 +33,4 @@ body{
 img{
   height: 400px;
   width: 700px;
-}
-
-@media screen {
-
-  
-  
 }
